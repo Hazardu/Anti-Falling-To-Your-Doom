@@ -1,0 +1,6 @@
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\Mod\AntiFallingToYourDoom.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\Mod\AntiFallingToYourDoom.pdb
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\obj\x86\Release\AntiFallingToYourDoom.csprojAssemblyReference.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\obj\x86\Release\AntiFallingToYourDoom.csproj.CoreCompileInputs.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\obj\x86\Release\AntiFallingToYourDoom.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\AntiFallingToYourDoom\obj\x86\Release\AntiFallingToYourDoom.pdb

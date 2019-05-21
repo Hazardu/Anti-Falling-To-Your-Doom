@@ -1,0 +1,10 @@
+<Mod ID="AntiFallingToYourDoom">
+  <Compatible>1.11b</Compatible>
+  <Name>
+    <EN>Anti Falling to your doom</EN>
+  </Name>
+  <Description>
+    <EN>If you fall through the ground, this mod will teleport you back out</EN>
+  </Description>
+  <Version>1.0.0.0</Version>
+</Mod>
